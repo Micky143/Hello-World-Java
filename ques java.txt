@@ -1,0 +1,7 @@
+1.Accept a date from the user of 8 digits as a single value.
+print date=16
+month =01
+year=2018*/
+2.Accept string of n words find out how many times  space is encountered, 
+remove only those spaces which are consecutive.
+3.accept a string of mixed case from the user and now print it in opposite case
